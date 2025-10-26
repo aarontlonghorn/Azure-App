@@ -1,4 +1,4 @@
-# Employee App (Full CRUD, Barebones)
+# Employee App (Full CRUD)
 
 ### 1) Backend
 
